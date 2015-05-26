@@ -2,10 +2,11 @@
 This is an open source toolkit implemented in java to help Improving Arabic Light Stemming in Information Retrieval Systems and other AI applications
 
 The toolkit depends on the following:
-"Arabic Stop Words," [Online]. Available: http://arabicstopwords.sourceforge.net
-J. Savoy, "Jacques Savoy Dataset," [Online]. Available: http://members.unine.ch/jacques.savoy/clef/. [Accessed 2013].
-M. Saad, "Motaz Saad Website," [Online]. Available: https://sites.google.com/site/motazsite/. [Accessed 2013].
-Wiktionary, "Arabized Words," [Online]. Available: http://ar.wiktionary.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%83%D9%84%D9%85%D8%A7%D8%AA_%D9%85%D8%B9%D8%B1%D8%A8%D8%A9
+
+"Arabic Stop Words," http://arabicstopwords.sourceforge.net
+"Jacques Savoy Dataset," http://members.unine.ch/jacques.savoy/clef/. [Accessed 2013].
+"Motaz Saad Website," https://sites.google.com/site/motazsite/. [Accessed 2013].
+"Arabized Words," http://ar.wiktionary.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%83%D9%84%D9%85%D8%A7%D8%AA_%D9%85%D8%B9%D8%B1%D8%A8%D8%A9
 
 
 
