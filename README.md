@@ -4,11 +4,8 @@ This is an open source toolkit implemented in java to help Improving Arabic Ligh
 The toolkit depends on the following:
 
 "Arabic Stop Words," http://arabicstopwords.sourceforge.net
-
-"Jacques Savoy Dataset," http://members.unine.ch/jacques.savoy/clef/. [Accessed 2013].
-
-"Motaz Saad Website," https://sites.google.com/site/motazsite/. [Accessed 2013].
-
+"Jacques Savoy Dataset," http://members.unine.ch/jacques.savoy/clef
+"Motaz Saad Website," https://sites.google.com/site/motazsite
 "Arabized Words," http://ar.wiktionary.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D9%83%D9%84%D9%85%D8%A7%D8%AA_%D9%85%D8%B9%D8%B1%D8%A8%D8%A9
 
 
