@@ -1,6 +1,6 @@
 # Arabic-Stemming-Toolkit AST
 This is an open source toolkit implemented in java to help Improving Arabic Light Stemming in Information Retrieval Systems and other AI applications
-<img alt="Arabic-Stemming-Toolkit AST" style="border-width:0" src="https://www.dropbox.com/s/a9g9lfe6ipcrh0n/AST.png?dl=0" />
+<img alt="Arabic-Stemming-Toolkit AST" style="border-width:0" src="https://www.dropbox.com/s/a9g9lfe6ipcrh0n/AST.png" />
 The AST is based  on the following:
   - [Terrier IR Platform]
   - [Arabic Stop Words]
