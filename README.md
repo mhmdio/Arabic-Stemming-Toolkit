@@ -8,6 +8,10 @@ The AST is based  on the following:
   - [Motaz Saad Website]
   - [Arabized Words]
 
+## Master Thesis
+
+<https://iugspace.iugaza.edu.ps/handle/20.500.12358/18964>
+
 Citation
 ----
 Mohammed Yahya Almusaddar. (2014). Improving Arabic light stemming in information retrieval systems. Retrieved from Main Library of Islamic University of Gaza. (Accession Order No. [112885])
